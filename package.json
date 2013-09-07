@@ -1,0 +1,21 @@
+{
+  "name": "youmeb-logger",
+  "version": "0.0.0",
+  "description": "youmeb-logger =============",
+  "main": "./lib/logger.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "mkdirp": "~0.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youmeb"
+  ],
+  "author": "Po-Ying Chen <poying.me@gmail.com>",
+  "license": "MIT"
+}
